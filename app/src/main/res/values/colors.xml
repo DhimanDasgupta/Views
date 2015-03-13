@@ -1,0 +1,11 @@
+<!-- 
+	Color For AppCompat 22.0+
+ -->
+
+<resources>
+
+    <color name="primary">#009688</color>
+    <color name="primaryDark">#00796b</color>
+    <color name="accent">#eeff41</color>
+
+</resources>

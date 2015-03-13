@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 	String resources for the application -->
+
+<resources>
+
+    <string name="app_name">Views</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_action_settings">Settings</string>
+    <string name="menu_action_refresh">Refresh Path</string>
+    <string name="is_charging">Charging?</string>
+    <string name="is_charging_default_value">NA</string>
+    <string name="is_usb_charging">USB Charging?</string>
+    <string name="is_usb_charging_default_value">NA</string>
+    <string name="is_ac_charging">AC Charging?</string>
+    <string name="is_ac_charging_default_value">NA</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="colon">:</string>
+
+</resources>

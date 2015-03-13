@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.dhimandasgupta.views.ui.views.BlurKenBurnsLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_blur_ken_burns_blur_ken_burns_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+</com.dhimandasgupta.views.ui.views.BlurKenBurnsLayout>
